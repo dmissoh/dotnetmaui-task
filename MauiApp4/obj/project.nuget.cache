@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kmjPnc5e3F6ErrARbg+zEM/GO57rSQQ7roHO2VOC6UGsu0Brq9qeQg3+03h/Jpe7qDI3wYq4j0eVQojkqqWSBw==",
+  "dgSpecHash": "DT1Y2DxEQJt5WDKTH9ZIJ3dPOEncIi3KO6Rc0HlxYeZwyl/MYUZkOaYErba8qa02yuU+RlM8p5Zxo0HMo8s+jA==",
   "success": true,
   "projectFilePath": "/Users/dimitri.missoh/dev/workspace/ifm/tutorial/MauiApp4/MauiApp4/MauiApp4.csproj",
   "expectedPackageFiles": [
+    "/Users/dimitri.missoh/.nuget/packages/communitytoolkit.mvvm/8.2.2/communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "/Users/dimitri.missoh/.nuget/packages/googlegson/2.9.1.1/googlegson.2.9.1.1.nupkg.sha512",
     "/Users/dimitri.missoh/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "/Users/dimitri.missoh/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
@@ -15,6 +16,8 @@
     "/Users/dimitri.missoh/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
     "/Users/dimitri.missoh/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/dimitri.missoh/.nuget/packages/microsoft.maui.graphics/7.0.101/microsoft.maui.graphics.7.0.101.nupkg.sha512",
+    "/Users/dimitri.missoh/.nuget/packages/microsoft.net.illink.analyzers/7.0.100-1.23211.1/microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "/Users/dimitri.missoh/.nuget/packages/microsoft.net.illink.tasks/7.0.100-1.23211.1/microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
     "/Users/dimitri.missoh/.nuget/packages/xamarin.android.glide/4.13.2.2/xamarin.android.glide.4.13.2.2.nupkg.sha512",
     "/Users/dimitri.missoh/.nuget/packages/xamarin.android.glide.annotations/4.13.2.2/xamarin.android.glide.annotations.4.13.2.2.nupkg.sha512",
     "/Users/dimitri.missoh/.nuget/packages/xamarin.android.glide.disklrucache/4.13.2.2/xamarin.android.glide.disklrucache.4.13.2.2.nupkg.sha512",
@@ -95,7 +98,13 @@
     "/Users/dimitri.missoh/.nuget/packages/xamarin.kotlin.stdlib.jdk7/1.7.20.1/xamarin.kotlin.stdlib.jdk7.1.7.20.1.nupkg.sha512",
     "/Users/dimitri.missoh/.nuget/packages/xamarin.kotlin.stdlib.jdk8/1.7.20.1/xamarin.kotlin.stdlib.jdk8.1.7.20.1.nupkg.sha512",
     "/Users/dimitri.missoh/.nuget/packages/xamarin.kotlinx.coroutines.android/1.6.4.1/xamarin.kotlinx.coroutines.android.1.6.4.1.nupkg.sha512",
-    "/Users/dimitri.missoh/.nuget/packages/xamarin.kotlinx.coroutines.core.jvm/1.6.4.1/xamarin.kotlinx.coroutines.core.jvm.1.6.4.1.nupkg.sha512"
+    "/Users/dimitri.missoh/.nuget/packages/xamarin.kotlinx.coroutines.core.jvm/1.6.4.1/xamarin.kotlinx.coroutines.core.jvm.1.6.4.1.nupkg.sha512",
+    "/Users/dimitri.missoh/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/dimitri.missoh/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/dimitri.missoh/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/dimitri.missoh/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/dimitri.missoh/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/dimitri.missoh/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }

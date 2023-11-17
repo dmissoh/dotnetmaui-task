@@ -1,16 +1,2 @@
-IP: 192.168.0.74
-IP: fe80::bcd0:74ff:fe04:4ec%14
-IP: fe80::889:fd2f:14ac:d724%15
-IP: fe80::84c7:b0ff:fefb:16a0%16
-IP: fe80::84c7:b0ff:fefb:16a0%17
-IP: fe80::2b61:a0c0:e18e:a580%18
-IP: fe80::62bb:bc8a:6579:112e%19
-IP: fe80::ce81:b1c:bd2c:69e%20
-IP: fe80::e4c:fdbe:6c29:5208%21
-IP: fe80::7584:dc6b:b80f:59a2%22
-IP: fe80::a45e:ede2:9eec:64bc%23
-IP: fe80::4990:f3ca:eef1:9732%24
-IP: fe80::b9ab:ebe5:be40:2fa8%25
-IP: fe80::2f38:cb70:a597:4d3f%32
-IP: fe80::2174:629:3e09:2a0%33
-Port: 10001
+USB Debugging: 1
+Port: 10000

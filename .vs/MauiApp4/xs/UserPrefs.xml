@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{38C4B12B-FCC0-4CF8-9E09-56E767C5C72F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MauiApp4/MainPage.xaml">
+    <Files>
+      <File FileName="MauiApp4/App.xaml.cs" />
+      <File FileName="MauiApp4/App.xaml" />
+      <File FileName="MauiApp4/AppShell.xaml.cs" />
+      <File FileName="MauiApp4/MainPage.xaml.cs" Line="14" Column="17" />
+      <File FileName="MauiApp4/MainPage.xaml" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MauiApp4" expanded="True">
+            <Node name="MauiApp4" expanded="True" selected="True">
+              <Node name="Platforms" expanded="True">
+                <Node name="Android" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.95" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MauiApp4 PreferredExecutionTarget="MyAppleMacCatalystID" automaticSigning="False" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
